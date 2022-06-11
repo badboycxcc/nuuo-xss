@@ -7,7 +7,6 @@ Referer
 ## payload 
 ```
 "><script>alert("XSS")</script><"
-
 ```
 
 ## The effect
