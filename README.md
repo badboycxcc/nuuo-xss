@@ -1,7 +1,7 @@
-# NUUO Login page login.php XSS attack
+# NUUO Login page login.php Reflected XSS attack
 
 
-## 漏洞位置
+## Affected parameter
 Referer
 
 ## payload 
@@ -10,7 +10,7 @@ Referer
 
 ```
 
-
+## The effect
 
 ![image](https://user-images.githubusercontent.com/72059221/173171676-271f80f5-2abb-46c6-b0a7-91a139360baa.png)
 
