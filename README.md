@@ -1,4 +1,4 @@
-# NUUO Login page login.php Reflected XSS attack
+# NUUO Network Video Recorder Login page login.php is Reflected XSS attack
 
 
 ## Affected parameter
