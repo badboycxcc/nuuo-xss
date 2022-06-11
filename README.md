@@ -1,8 +1,10 @@
 # NUUO Network Video Recorder Login page login.php is Reflected XSS attack
 
 
-## Affected parameter
-Referer
+## Affected firmware
+
+Firmware Version: 03.06.02	
+
 
 ## payload 
 ```
