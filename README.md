@@ -1,3 +1,4 @@
+# CVE-2022-33119  
 # NUUO Network Video Recorder Login page login.php is Reflected XSS attack
 
 
